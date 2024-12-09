@@ -1,6 +1,6 @@
 # GoVerify
 
-A flexible, tag-based validation and transformation library for Go with zero dependencies.
+A minimal, flexible, and extensible tag-based validation and transformation library for Go with zero dependencies.
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/Juanfec4/go_verify.svg)](https://pkg.go.dev/github.com/Juanfec4/go_verify)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Juanfec4/go_verify)](https://goreportcard.com/report/github.com/Juanfec4/go_verify)
